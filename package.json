@@ -1,0 +1,23 @@
+{
+  "name": "sasi-converter2",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowmya-00/sasi-converter2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowmya-00/sasi-converter2/issues"
+  },
+  "homepage": "https://github.com/sowmya-00/sasi-converter2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
